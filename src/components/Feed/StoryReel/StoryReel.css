@@ -1,0 +1,4 @@
+/*this aligns the stories in horizontal direction*/
+.storyReel {
+  display: flex;
+}
